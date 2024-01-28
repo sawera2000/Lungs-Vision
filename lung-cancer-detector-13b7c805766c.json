@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "lung-cancer-detector",
+  "private_key_id": "13b7c805766c5520cba4eab3fe17ccd5681c1d85",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDB9D9bAB/NBJzg\nEls9xIhCaLmruFAwHMh+5DaIhWQ7SG9ibm85sFYhEElNa0kSrl643QDkHXIm+fqJ\nxYHPAaX5y7jrgNbwbBoBxp/kbbEOLsEQpFOlq6y/xVwzQb9CMek5nLHSOV6Glo5+\nBjqIxBXXLEMOTHzkQWf7WZxJx9rgyMjekJjn3mQgDjpkes2trZInpRmqUFTk1Fyp\nmnGMFdjhXziiE748r9MlzoXI14s7aXEmpOGXaH9H6stHr1ni44wgO+obPIJMSZ4p\n3p/8LgZ1/Z7VR8qgReeQeqKhNiLrv0byUqBwqoc3JrEw8X6BiTMn+EJtsuqZLUb5\nolqxOd7nAgMBAAECggEALRkEVD4CpvKgIW/TPFkCz+I27elE5/MBYZPh5DuT8z7j\n+1CvVwwb8sMtMC22h3v49WYZ63C3Vr3AViGRDdeVxq/qdwP1tmCEaY5MJlqlFSWk\n6aAz/O0elVaoGhj7BkLBto4rQLTrOEMwrbf4C04AwBAAJYZ+cbqNmYGcGAG68JIH\nR66bNdW9rArBXEd9Vwjvgu2j1zVqUR8Z4KgFZTPe1v5+jjf/PZD9HbVDAoE2mIQ3\nznzzyGVifsXIlyuZo9qfAw0e5t8Iz1FSljs/Bj0cNO0A4/7G/v+mxjbz1R1DqQ6e\nwxDjlt8Dh1INQZOjFaxswlUrqZZtZWqjM6qyHfkFsQKBgQDwvCsFa6zmYwyk16CW\nhVzbuWxa+b0lfl58Jvq9GjPj/VhoT3Ci6LPNnG2gm8zwozvjjtBatB6iJRnEQS/f\nnsW34DgzgqAUzZUkMU0QBPxgdyik2Ldu/jyx8oFBOfGlJRA/kgMVsVVLlVixdsJn\n8lZFf2atZil5G8s/wjIj3NfEUQKBgQDOQLAzmCG90MFaTC9e0iECbxwHqUEivbxK\n1rUSsesHFBnwcKHBTFY5SMtvMC3fc7NqN9mYh6kz/tXo9p6Ccr9o0om5XkJFFgqi\nctar4v+lPSV3XJZbA9/EzUtv5njeIgjzkybrBXGzk0No4+yZ5sZcxDJcw24TvhPT\nA+Ymkr65twKBgQCLGl/NkQtmUMOkmMg9UbB3cmxvITGvcZbNLITkMjjbu6+TDpwq\nNkZ3P7WFAaHpRpk7g3FXiA7PaJq78WLlV0wuVMyEzy0K+EP+ltJNuGPQpeoBXwyX\ngSa3OEaB1yaPY5xA73EC3uZHd3O5j8MD5178Z4KAHbFHPs0x+VeZq2muEQKBgQCa\nYcNCK0p+SSahT0tZ31FEACTr+x29QmYRYpsQzkoM91ffKH97L4eOw1U6+cYsbu9J\nv1pJmKnnOIWnJgpJvFhXvtfF/679BV2acPkMmhIe/iDwMkZ9A+5X4g7oSIwKQVGP\n+IJ2ApI0BzO67HgqTpoFz/meg83+SxWNqmp4TvkiCwKBgQDu+m/XvHqYdjNdcf6O\nkqeP7P6KCBaJo3lhIuw/+NMWwJowpHUU25nRaGQHWQum6OBb/fanSSOw8pNm/vGn\n+DMuwOW5C+Bf9Ev7SuqPAPpOrbAUA9BgBi3G/zB9JHzawAy9Lq3aUtkmYdmEzesy\nYekRImfXIGTREzVH+Pi0/3WACA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-6bets@lung-cancer-detector.iam.gserviceaccount.com",
+  "client_id": "117471647736885753634",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-6bets%40lung-cancer-detector.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
