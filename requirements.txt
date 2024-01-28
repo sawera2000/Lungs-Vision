@@ -4,6 +4,5 @@ streamlit==1.29.0
 streamlit_lottie==0.0.5
 streamlit_option_menu==0.3.6
 tensorflow==2.15.0
-tensorflow_intel==2.1.2.0rc0
 streamlit==1.29.0
 
